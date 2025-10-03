@@ -4,6 +4,10 @@
 
 ---
 
+## 🌍 Live Demo  
+[Check it out here](https://abraham-ai-cl.vercel.app/)  
+---
+
 ## ✨ Features  
 
 - 🔑 **Authentication** – Secure sign-in & user management with [Clerk](https://clerk.com)  
@@ -44,5 +48,9 @@
 
 ---
 
-## 📂 Project Structure  
+## ❤️ Why This Project?  
+I built AbrahamAI to showcase how AI can empower creativity. It’s a personal project where I combined my skills in full-stack development, authentication, databases, and cloud services.  
+
+---
+✨ Built by [Segun Oladimeji](https://github.com/TheGreatWizard16)  
 
